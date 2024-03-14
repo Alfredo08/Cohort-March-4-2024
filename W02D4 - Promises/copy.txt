@@ -1,0 +1,2 @@
+Hey there from the file message.txt!
+Extra line.

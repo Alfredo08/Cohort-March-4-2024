@@ -1,5 +1,5 @@
 # D4 W02 | Promises
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-March-4-2024/tree/main/W02D4%20-%20Promises) | [Vimeo Video Recording](https://vimeo.com/923473384/7dc475622c?share=copy)
 
 ## Topics to cover
 
