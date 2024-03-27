@@ -84,7 +84,7 @@ $('.news-form').on('submit', (event) => {
     event.preventDefault();
     const $searchTerm = $('#search-term').val();
     const URL = "https://newsapi.org/v2/everything";
-    const API_KEY = "e993fe0805de4ec0abaff5d967e9302a";
+    const API_KEY = "PLACE_YOUR_API_KEY_HERE";
 
     $.ajax({
         method: 'GET',
